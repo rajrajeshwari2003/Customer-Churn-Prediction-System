@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# (Optional) Ignore very large datasets, though yours is small enough for Github!
+# Telco-Customer-Churn.csv
+
+# Output logs and temporary files
+modeling_output.txt
+generate_dummy_data.py
